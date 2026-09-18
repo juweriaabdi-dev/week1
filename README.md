@@ -1,4 +1,4 @@
-# week1 PHP & MySQL
+PHP & MySQL
 
 Course Introduction
 
